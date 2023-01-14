@@ -1,9 +1,9 @@
   Suman Ghara
 - 👋 Hi, I’m @Sumanghara
-- 👀 I’m interested in devlope softower
-- 🌱 I’m currently learning javascreapt
-- 💞️ I’m looking to collaborate on CodewithHarry
-- 📫 How to reach me ...
+- 👀 I’m enthusiastic in develop software.
+- 🌱 I’m currently learning Java,Spring Boot.
+-    currently i working Image Processing project.
+- 
 
 <!---
 Sumanghara/Sumanghara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
