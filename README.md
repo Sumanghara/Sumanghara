@@ -1,8 +1,8 @@
   Suman Ghara
 - 👋 Hi, I’m @Sumanghara
-- 👀 I’m enthusiastic in develop software.
-- 🌱 I’m currently learning Java,Spring Boot.
--    currently i working Image Processing project.
+-  I’m enthusiastic in develop software.
+-  I’m currently learning Java,Spring Boot.
+-   currently i working Image Processing project.
 - 
 
 <!---
